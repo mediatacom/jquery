@@ -1,0 +1,33 @@
+{
+    "name": "mediatacom/jquery",
+    "description": "jQuery JavaScript Library",
+    "type": "component",
+    "homepage": "https://github.com/mediatatom/jquery",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Björn Köster",
+            "homepage": "https://www.mediata.net",
+            "email": "bjoern.koester@mediata.net"
+        },
+        {
+            "name": "Holger Marx",
+            "homepage": "https://www.mediata.net",
+            "email": "holger.marx@mediata.net"
+        }
+    ],
+    "extra": {
+        "component": {
+            "scripts": [
+                "jquery.js"
+            ],
+            "files": [
+                "jquery.min.js",
+                "jquery.min.map",
+                "jquery.slim.js",
+                "jquery.slim.min.js",
+                "jquery.slim.min.map"
+            ]
+        }
+    }
+}
