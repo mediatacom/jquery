@@ -2,18 +2,19 @@
     "name": "mediatacom/jquery",
     "description": "jQuery JavaScript Library",
     "type": "component",
-    "homepage": "https://github.com/mediatatom/jquery",
-    "license": "GPL-2.0",
+    "homepage": "http://jquery.com",
+    "license": "MIT",
+    "support": {
+        "irc": "irc://irc.freenode.org/jquery",
+        "issues": "https://github.com/jquery/jquery/issues",
+        "forum": "http://forum.jquery.com",
+        "wiki": "http://docs.jquery.com/",
+        "source": "https://github.com/jquery/jquery"
+    },
     "authors": [
         {
-            "name": "Björn Köster",
-            "homepage": "https://www.mediata.net",
-            "email": "bjoern.koester@mediata.net"
-        },
-        {
-            "name": "Holger Marx",
-            "homepage": "https://www.mediata.net",
-            "email": "holger.marx@mediata.net"
+            "name": "JS Foundation and other contributors",
+            "url": "https://github.com/jquery/jquery/blob/master/AUTHORS.txt"
         }
     ],
     "extra": {
